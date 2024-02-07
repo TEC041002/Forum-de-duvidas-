@@ -17,7 +17,7 @@ Todos os tópicos e pessoas neste fórum merecem respeito. Mesmo que você disco
  Uma ótima maneira de aprender e ajudar é participar de discussões já abertas. Use um pouco do seu tempo para pesquisar e navegar pelos tópicos existentes antes de fazer uma nova pergunta.
 
 6. **Resolvido**
- Se a sua pergunta foi respondida e o problema foi resolvido, marque-a com um check verde para indicar que foi resolvido. ✅
+ Se a sua pergunta foi respondida e o problema foi resolvido, marque-a com opção de resposta para ficar visível para todos.
 
 7. **Detalhes**
  Ao postar uma pergunta, inclua o máximo de detalhes possível para que outros possam entender e responder adequadamente.
