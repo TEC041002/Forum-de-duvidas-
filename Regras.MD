@@ -29,7 +29,6 @@ Identificação Verdadeira: A identificação deve ser feita com o seu nome verd
 9. **Seja Agregador**
 Mesmo que você não concorde com algo, tente contribuir de forma positiva para a discussão. Se algo te incomodou, tudo bem em responder, mas lembre-se: critique as ideias, não as pessoas. Evite usar palavras ofensivas, ataques pessoais ou rotular os outros de maneira negativa. Em vez disso, tente responder de maneira calma e razoável, mesmo que você precise discordar. Lembre-se, em uma discussão saudável, o objetivo não é “ganhar”, mas sim entender diferentes pontos de vista.
 
-10. **Identificação Verdadeira**
-A identificação deve ser feita com o seu nome verdadeiro para confirmar que você é um aluno do curso. Nomes falsos ou pseudônimos não são permitidos.
+
 
 Lembre-se, este fórum é um lugar para aprender e crescer juntos. Vamos manter um ambiente positivo e encorajador!
